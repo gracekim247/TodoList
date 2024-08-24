@@ -44,7 +44,10 @@ const Todo = () => {
 
       {/* list of todos */}
       <div className="containertodo"> 
-        {todos.map((todo) => (
+        {todos
+        .slice() 
+        .reverse() 
+        .map((todo) => (
           <div className="todo" key={todo.id}> 
             {/* checkbox for task */}
             <input
