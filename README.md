@@ -6,3 +6,4 @@ Add a Task: Enter a new task in the input field and click "Add" to add it to the
 Update a Task: Toggle the completion status of a task by checking or unchecking the checkbox.
 Delete a Task: Remove a task from the list by clicking the "Delete" button.
 
+![Screenshot 2024-08-24 at 1 31 06 AM](https://github.com/user-attachments/assets/166e39d5-6148-4125-8861-d3e5518ea6aa)
