@@ -14,4 +14,3 @@ This is a simple To-Do application built with React and Redux. It allows users t
 
 ## Here's how the app looks:
 ![Screenshot 2024-08-24 at 1 31 06 AM](https://github.com/user-attachments/assets/166e39d5-6148-4125-8861-d3e5518ea6aa)
-
